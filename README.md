@@ -1,1 +1,2 @@
-# fiz-advertisement.github.io
+# Welcome to Fiz Advertisements!
+## made for all the people in my class, shoutout to Michael.
