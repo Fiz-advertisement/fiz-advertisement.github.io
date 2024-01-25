@@ -1,7 +1,7 @@
 ### Welcome to Fiz Advertisements!
 #### made for all the kids in their Science class trying to pass time; shoutout to Mike for help/
 
-Updates:
+### Updates:
 
 at this moment, this website is still in beta stage. Updates will hapened daily.
     this website will have flash games and other web games.  
